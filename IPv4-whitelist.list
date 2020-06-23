@@ -1,1 +1,4 @@
 # Whitlisted IPv4 addresses:
+# Google DNS
+8.8.8.8
+8.8.4.4
